@@ -25,3 +25,9 @@
 
 ## Предпросмотр:
 ![main](source/main.png)
+![test](source/test.png)
+![test_run](source/test_run.png)
+![pylint_main](source/pylint_main.png)
+![coverage_run](source/coverage_run.png)
+![coverage_html_build](source/coverage_html_build.png)
+![coverage_open](source/coverage_open.png)
